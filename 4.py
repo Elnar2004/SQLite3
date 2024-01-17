@@ -1,0 +1,1 @@
+cursor.execute('INSERT INTO Users (username, email, age) VALUES(?, ?, ?)', ('newuser', 'newuser@example.com',26))
